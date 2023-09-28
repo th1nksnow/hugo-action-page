@@ -1,0 +1,32 @@
+baseURL = 'http://snowfall.io/'
+languageCode = 'en-us'
+title = 'Snowfall'
+theme = 'nightfall'
+
+[params]
+author = "Thinksnow"
+user = "th1nksnow"
+hostname = "github.com"
+published = false
+readingTime = false
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/th1nksnow"
+
+[[params.social]]
+key = 1
+name = "Telegram"
+url = "https://t.me/Thinksnow"
+
+[[params.social]]
+key = 2
+name = "faceit"
+url = "https://www.faceit.com/ru/players/Thinksnow"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:buffallo654@yandex.ru"
+
